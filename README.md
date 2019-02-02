@@ -1,4 +1,3 @@
-# data-science-portfolio
-Portfolio of data science projects completed by me for professional development and a curiosity for learning. 
+Hello, my name is Angela and welcome to my portfolio. I am a data scientist and doctoral student in Biomedical Informatics. This is a collection of projects that I am working on from a variety of disciplines and fields. 
 
-Hello, my name is Angela and welcome to my portfolio. 
+
