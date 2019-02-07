@@ -6,6 +6,8 @@ This is a machine learning project that predicts the price of a home based on fe
 
 This project requires atleast Python 2.7 and the following Python libraries installed:
 
+    Pandas
+    Seaborn
     NumPy
     matplotlib
     scikit-learn
