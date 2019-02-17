@@ -25,4 +25,4 @@ In the Anaconda Prompt, navigate to the folder the project files have been saved
 
     jupyter notebook customer_segments.ipynb
 
-You may need to select a browser to view the notebook in such as Internet Explorer. This will open the iPython Notebook software and project file in your browser.
+You may need to select a browser to view the notebook in such as Internet Explorer. This will open the Jupyter Notebook software and project file in your browser.
