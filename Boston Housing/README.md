@@ -1,6 +1,6 @@
 # Predicting Boston Housing Prices
 
-This is a machine learning project that predicts the price of a home based on features. 
+This is a machine learning project that predicts the price of a home based on features. The model accurately predicted and identified the value of a home in the Boston real estate market.  
 
 ### Install and Download
 
@@ -24,5 +24,5 @@ In the Anaconda Prompt, navigate to the folder the project files have been saved
 
     jupyter notebook boston_housing.ipynb
 
-You may need to select a browser to view the notebook in such as Internet Explorer. This will open the iPython Notebook software and project file in your browser.
+You may need to select a browser to view the notebook in such as Internet Explorer. This will open the Jupter Notebook software and project file in your browser.
 
