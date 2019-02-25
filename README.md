@@ -18,4 +18,5 @@ Supervised Learning: Finding Donors for Charity: A model was designed to predict
 ### Natural Language Processing
 
 ### Data Analysis and Visualization
+A mini-project completed to clean geographical data and plot. 
 
