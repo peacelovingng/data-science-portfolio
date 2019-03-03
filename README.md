@@ -19,5 +19,5 @@ Supervised Learning: Finding Donors for Charity: A model was designed to predict
 PDF documents were parsed and certain key terms are extracted relating to health and safety. 
 
 ### Data Analysis and Visualization
-A mini-project completed to clean geographical data and plot. 
+A mini-project completed to clean geographical data and merge with data obntained from The INdian Health Service. 
 
