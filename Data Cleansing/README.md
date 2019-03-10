@@ -16,8 +16,8 @@ You will also need to have software installed to run and execute an iPython Note
 
 I highly recommend using Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. Jupyter is included and can run Ipython notebooks. 
 
- Please download these files from this repository: Data Cleansing Project.ipynb, and Communities.xlsx
- NationalFile_20181201 needs to be downloaded from the GNIS website (it was too large to upload to Github)- https://geonames.usgs.gov/domestic/download_data.htm
+ Please download these files from this repository: 1. Data Cleansing Project.ipynb, and 2. Communities.xlsx  
+    3. NationalFile_20181201 needs to be downloaded from the GNIS website (it was too large to upload to Github)- https://geonames.usgs.gov/domestic/download_data.htm
 
 ### Run
 
