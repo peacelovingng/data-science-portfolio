@@ -21,5 +21,5 @@ PDF documents were parsed and certain key terms are extracted relating to health
 ### Data Analysis and Visualization
 
 #### Data Cleaning and Normalization
-A mini-project completed to clean and normalize U.S. Geological Survey (USGS) data and merge with data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling that is typical before analysis. 
+A mini-project completed to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling that is typical before analysis. 
 
