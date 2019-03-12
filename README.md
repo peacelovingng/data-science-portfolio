@@ -5,7 +5,7 @@ Note: Data used in projects are for demonstration purposes and derive from publi
 
 ### Machine Learning
 
-#### Albuquerque Crime Analysis
+#### Metropolitan City Crime Analysis
 Supervised Learning:
 
 #### Boston Housing Project
