@@ -18,8 +18,11 @@ Supervised Learning: Finding Donors for Charity: A model was designed to predict
 ### Natural Language Processing
 PDF documents were parsed and certain key terms are extracted relating to health and safety. 
 
-### Data Analysis and Visualization
+### Data Analysis, Visualization and Pre-Processing
 
 #### Data Cleansing and Normalization
-A mini-project completed to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling that is typical before analysis. 
+A mini-project to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling that is typical before analysis. 
+
+#### Data Visualization
+Poverty rate by county in The United States was visualized with explanation and background. 
 
