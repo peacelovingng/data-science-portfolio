@@ -24,5 +24,5 @@ PDF documents were parsed and certain key terms are extracted relating to health
 A mini-project to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling that is typical before analysis. 
 
 #### Data Visualization
-Poverty rate by county in The United States was visualized with explanation and background. 
+This project provided a visualization of poverty in The United States by county for year 2017. The purpose of this is to demonstrate how to communicate results in a visual format to be easily understood by a wider range of audiences. 
 
