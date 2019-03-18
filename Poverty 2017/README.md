@@ -14,10 +14,11 @@ This project requires atleast Python 2.7 and the following Python libraries inst
 	plotly.figure_factory
 	warnings
 	
- Note: In order to reproduce plotly results, you may need an account at https://plot.ly/python/    
+ Be sure to Install conda install -c conda-forge nodejs  
+ 
+after installing nodejs,download Jupyter plotly extension: jupyter labextension install @jupyterlab/plotly-extension
    
-  
-You will also need to have software installed to run and execute an iPython Notebook
+  You will also need to have software installed to run and execute an iPython Notebook
 
 I highly recommend using Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. Jupyter is included and can run Ipython notebooks. 
 
