@@ -6,7 +6,7 @@ Note: Data used in projects are for demonstration purposes and derive from publi
 ### Machine Learning
 
 #### Metropolitan City Crime Analysis
-Supervised Learning:Metropolitan City Crime Analysis: 
+Supervised Learning: Metropolitan City Crime Analysis: 
 
 #### Boston Housing Project
 Supervised Learning: Predicting Boston Housing Prices: The value of a home in the Boston real estate market was predicted and identified using supervised learning and statistical analysis tools. The best price a client can sell their home was identified. This type of analysis would be useful for those that work in real estate to aid clients in finding a suitable selling price based on objective measures. 
