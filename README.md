@@ -16,7 +16,7 @@ Unsupervised Learning: Creating Customer Segments: This project analyzed custome
 Supervised Learning: Finding Donors for Charity: A model was designed to predict whether an individual earns more than $50,000 annually to identify potential donors for an organization. This type of analysis would be useful for non-profits or organizations that rely on donations as a source of revenue. 
 
 ### Natural Language Processing
-
+Yelp reviews were classified and predicted using their textual data. 
 
 ### Data Analysis, Visualization and Pre-Processing
 
