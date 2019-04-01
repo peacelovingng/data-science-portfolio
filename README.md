@@ -6,7 +6,7 @@ Note: Data used in projects are for demonstration purposes and derive from publi
 ### Machine Learning
 
 #### Metropolitan City Crime Analysis
-Supervised Learning: Metropolitan City Crime Analysis: Police Incidents witihn various census tracts were predicted based upon factors such as age and income using a combination of supervised learning and statistical analysis. 
+Supervised Learning: Metropolitan City Crime Analysis: Police Incidents within various census tracts in Albuquerque, New Mexico were predicted based upon factors such as median age and income using a combination of supervised learning and statistical analysis. This analysis can be beneficial for law enforcement to gauge where to potentially expect calls to originate from. 
 
 #### Boston Housing 
 Supervised Learning: Predicting Boston Housing Prices: The value of a home in the Boston real estate market was predicted and identified using supervised learning and statistical analysis tools. The best price a client can sell their home was identified. This type of analysis would be useful for those that work in real estate to aid clients in finding a suitable selling price based on objective measures. 
