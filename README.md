@@ -15,7 +15,7 @@ Unsupervised Learning: Creating Customer Segments: This project analyzed custome
 #### Finding Donors for Charity
 Supervised Learning: Finding Donors for Charity: A model was designed to predict whether an individual earns more than $50,000 annually to identify potential donors for an organization. This type of analysis would be useful for non-profits or organizations that rely on donations as a source of revenue. 
 
-### Data Analysis, Visualization and Pre-Processing
+### Pre-Processing, Data Analysis, and Visualization 
 
 #### Data Cleansing 
 A mini-project to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling (data pre-processing) that is typical before analysis. 
