@@ -1,6 +1,6 @@
 # Metropolitan Crime Analysis
 
-This project predicitive analysis regarding crime incidents in Albuquerque, New Mexico. The purpose of this project is provide law enforcement and decision makers with analysis to potentially aid in resoruce allocation. 
+This project predictive analysis regarding crime incidents in Albuquerque, New Mexico. The purpose of this project is provide law enforcement and decision makers with analysis to potentially aid in resource allocation. This project may also be useful in aiding potential homebuyers in where in Albuquerque they may be interested in living. 
 
 ### Install and Download
 
