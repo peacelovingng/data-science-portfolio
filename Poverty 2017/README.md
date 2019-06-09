@@ -5,11 +5,11 @@ This project provided storytelling and visualizations regarding poverty in The U
 ### Project Motivation
 For this project, I was interestested in analyzing census data regarding poverty in to better understand:
 
-1. What percentage of the population is affected by poverty?
+1. What percentage of the population is affected by poverty? Thisquestion is important to understand the magnitude of this current problem.
 
-2. What states are most affected by poverty (counts and percentages)?
+2. What states are most affected by poverty (counts and percentages)? This is an important question because without living in an area that is visibly affected by poverty, it may be difficult to understand this without looking at specific data. This question gives a high level view of poverty by state. 
 
-3. Which particular counties are experiencing the highest percentages of poverty?
+3. Which particular counties are experiencing the highest percentages of poverty? This question is relevant to provide a more granular view of poverty by each state. A state overall may not be greatly affected by poverty,but a particular county may.
 
 ### Install and Download
 
