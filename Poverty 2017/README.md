@@ -48,3 +48,12 @@ You may need to select a browser to view the notebook in such as Internet Explor
 ### Results
 
 States with highest poverty and hightes poverty counts differ. The states with high population density have a higher overall population count, while states with highest poverty percentages derive from states that are deeply poverty stricken and have overall population density. There are five South Dakota counties in the United States that are among the ten counties with the highest poverty percentages-Ziebach County, Todd County, Buffalo County, Corson County and Oglala Lakota County.
+
+### Licensing, Authors, Acknowledgements
+Thank you to The United States Census for provindg the data for this project. below are links to the data used. 
+
+1.https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-thresholds.html
+
+2.http://www.unesco.org/new/en/social-and-human-sciences/themes/international-migration/glossary/poverty
+
+3.http://www.worldometers.info/world-population/us-population/
