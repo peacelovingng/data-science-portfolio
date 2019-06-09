@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Hello, my name is Angela and welcome to my portfolio. I am a Data Scientist and Biomedical Informatics PhD candidate with Rutgers University. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes. Please visit my website at [angeladata.com](https://www.angeladata.com), if you are interested in a more aesthetically pleasing portfolio experience and to contact me.
+Hello, my name is Angela and welcome to my portfolio. I am a Data Scientist and Biomedical Informatics PhD candidate with Rutgers University under the advisement of Dr. Fredrick Coffman and Dr. Shankar Srinivasan. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes. Please visit my website at [angeladata.com](https://www.angeladata.com), if you are interested in a more aesthetically pleasing portfolio experience and to contact me.
 
 Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources. 
 
